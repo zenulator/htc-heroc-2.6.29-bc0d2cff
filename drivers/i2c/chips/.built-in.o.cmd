@@ -1,0 +1,1 @@
+cmd_drivers/i2c/chips/built-in.o :=  arm-eabi-ld -EL    -r -o drivers/i2c/chips/built-in.o drivers/i2c/chips/akm8973.o drivers/i2c/chips/bma150.o drivers/i2c/chips/pca963x.o drivers/i2c/chips/microp_i2c.o drivers/i2c/chips/tpa6130.o 

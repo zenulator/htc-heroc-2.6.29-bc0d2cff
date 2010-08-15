@@ -1,0 +1,1 @@
+#define UTS_RELEASE "2.6.29-ZenKernel-08122010-R3"
