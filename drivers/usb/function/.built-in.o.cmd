@@ -1,1 +1,0 @@
-cmd_drivers/usb/function/built-in.o :=  arm-eabi-ld -EL    -r -o drivers/usb/function/built-in.o drivers/usb/function/msm_hsusb.o drivers/usb/function/adb.o drivers/usb/function/mass_storage.o drivers/usb/function/diag.o drivers/usb/function/ether.o drivers/usb/function/serial.o drivers/usb/function/rndis.o 
